@@ -68,7 +68,7 @@
     '{userName}のいいところは好奇心です',
     '{userName}のいいところは気配りですです',
     '{userName}のいいところはその全てです',
-    '{userName}のいいところは優しさです'
+    '{userName}のいいところはやさしさです'
   ];
 
   function assessment(userName){
